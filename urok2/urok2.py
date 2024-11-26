@@ -24,8 +24,8 @@ print(type(dct))
 
 print(type(None))
 
-class Chelovek:
+class Shos:
     pass
 
-a= Chelovek()
+a= Shos()
 print(type(a))
