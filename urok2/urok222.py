@@ -2,14 +2,14 @@ list_append = [1, 2, 3]
 print(list_append)           #Пише list_append
 
 list_append.append(4)
-print(list_append)            #list_append поширюєтся до 4 цифр
+print(list_append)            #list_append поширюється цифрою 4
 
-list_append.append(5)          #list_append поширюєтся до 5 цифр
+list_append.append(5)          #list_append поширюється цифрою 5
 print(list_append)
 
 list_extend = [4, 5, 6]
 print(list_extend)              #Створюється list_extend 
-list_extend.extend([7, 8, 9])    #list_extend поширюєтся символами 7, 8, 9
+list_extend.extend([7, 8, 9])    #list_extend поширюється цифрами 7, 8, 9
 print(list_extend)
 
 
